@@ -1,0 +1,7 @@
+{
+    "env": {
+        "mongoURI": "mongodb+srv://ashok:ashok123@urlshort.kwkam.mongodb.net/<dbname>?retryWrites=true&w=majority",
+        "baseUrl": "http://localhost:5000",
+        "NODE_ENV": "development"
+    }
+}
